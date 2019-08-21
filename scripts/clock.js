@@ -55,7 +55,7 @@ function draw() {
     ctx.font = "24px Arial";
     ctx.fillText('LOVE HAIJUN', 333, 540)
     ctx.font = "18px Arial";
-    ctx.fillText('LONGINES', 370, 570)
+    ctx.fillText('LONGINES', 365, 570)
     ctx.closePath();
 
     ctx.beginPath();
