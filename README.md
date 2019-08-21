@@ -4,4 +4,4 @@
 
 demo https://clock.xinhaonaner.cn/
 
-![http://tccpc.xyz/canvas-clock/clock.html](http://i.imgur.com/j1RRBo0.png)
+![https://xinhaonaner.cn/](https://cdn.xinhaonaner.cn/xinhaonaner_cn/image_4aab18945c926300ce785a6c778cc5d3.png)
